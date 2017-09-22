@@ -2,14 +2,13 @@
  * hellocpp.cxx
  */
 
+#include <iostream> //biblioteki
 
-#include <iostream>
-//biblioteki
 using namespace std;
-//koniec bibliotek
+
 int main(int argc, char **argv)
 {
-    char imie[10]; //deklaracja zmiennej znakowej //[] deklaracja tablicy znaków
+    char imie[10]; //"char" deklaracja zmiennej znakowej //"[]" deklaracja tablicy znaków
     
 	cout << "hello c++" << endl; //cout print onscreen
     cout << "Podaj imię:";
