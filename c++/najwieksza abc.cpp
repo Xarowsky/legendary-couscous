@@ -11,33 +11,42 @@ int main(int argc, char **argv) {
     a = 0;
     b = 0;
     c = 0;
-    cout << "podaj liczbe A: ";
+    start:cout << "podaj liczbe A: ";
     cin >> a;
     cout << "podaj liczbe B: ";
     cin >> b;
     cout << "podaj liczbe C: ";
     cin >> c;
 
-    if (a>b)
+     if (a>b && a>c)
     {
-        if (a>c)
             cout << "najwieksze A = " << a;
-                else
-                cout << "njwieksze C =" << c;
+            goto start;
     }
-    else if (a<b)
+    if (b>a && b>c)
     {
-        if (b>c)
         cout << "najwieksze B = " << b;
-            else
-            cout << "najwieksze C = " << c;
+        return 0;
     }
-    else if (c>a)
+    if (c>a && c>b)
     {
-        if (c>b)
         cout << "najwieksze C = " << c;
-            else
-            cout << "najwieksze B = " << c;
+        return 0;
+    }
+    if (b==a && c>a)
+    {
+    cout << "najwieksze C = " << c;
+    return 0;
+        }
+    if (b==c && a>b)
+    {
+    cout << "najwieksze A = " << a;
+    return 0;
+    }
+    if (c==a && b>a)
+    {
+    cout << "najwieksze B = " << b;
+    return 0;
     }
     else //if (a==b)
     {
