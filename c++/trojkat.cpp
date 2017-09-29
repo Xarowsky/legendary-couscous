@@ -3,11 +3,12 @@
  * 
 */
 #include <iostream>
-
+#include <cmath>
 using namespace std;
 
 int main(int argc, char **argv) {
-    int a, b, c;
+    float a, b, c;
+    
     a=0;
     b=0;
     c=0;
@@ -17,20 +18,13 @@ int main(int argc, char **argv) {
     cin >> b;
     cout << "podaj dlugosc boku c= ";
     cin >> c;
-    
-    if (a+b>c)
+    float obwod = a + b + c;
+    if (a+b>c && c+b>a && a+c>b)
     {
-        
-    }
+    cout << "obwod= " << a + b + c << endl;
+    float p = obwod / 2;
+    cout << "p= " << p;
     
-      if (c+b>a)
-    {
-        
-    }
-    
-      if (a+c>b)
-    {
-        
     }
 	return 0;
 }
