@@ -5,18 +5,23 @@ using namespace std;
 int main(int argc, char **argv)
 {
 
-char zn='0';
+char zn='t';
 
 
-while(zn=!1||zn=!12)
+while(true)
 {
 cout<<"podaj znak =";
-cin>>m;
+cin>>zn;
+    //if (zn=='n'||zn=='N'||zn=='t'||zn=='T'){cout<<zn<<endl;}
+    //else break;
+switch(zn){
+    case 'n':
+    case 'N':
+    case 't':
+    case 'T':
+    goto koniec;
+    }
 }
-
-
-
-
-	return 0;
+	koniec:return 0;
 }
 
