@@ -5,21 +5,38 @@
 def fib_it(n):
     a, b = (0, 1)
     if n == 0:
-        print a
+        print(a)
         return a
     elif n == 1:
-        print b
+        print(b)
         return b
-    for i in range(0, n):
-        a = b
-        a = b + a
-    print b
+    for i in range(1, n):
+        # tmp = b
+        # b = a + b
+        # a = tmp
+        a, b = b, a + b
+        print(a, " wyraz ", i, ": ", b)
+    return b
+
+
+def fib_it2(n):
+    a, b = (0, 1)
+    if n == 0:
+        print(a)
+        return a
+    elif n == 1:
+        print(b)
+        return b
+    while n - 1 > 0:
+        a, b = b, a + b
+        print(a, " ", b)
+        n = n - 1
     return b
 
 
 def main(args):
-    n = int(input("który wyraz"))
-    fib_it(n)
+    n = int(input("który wyraz "))
+    fib_it2(n)
     return 0
 
 
