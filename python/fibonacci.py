@@ -34,9 +34,15 @@ def fib_it2(n):
     return b
 
 
+def fib_re(n):
+    if n <= 2:
+        return 1
+    return fib_re(n + (n - 1))
+
+
 def main(args):
     n = int(input("który wyraz "))
-    fib_it2(n)
+    fib_re(n)
     return 0
 
 
