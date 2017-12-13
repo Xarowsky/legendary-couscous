@@ -23,6 +23,15 @@ float horner_it(int stopien, float a[], float x)
         return wynik;
     }
     
+float horner_re(int k, float tbwsp[] float x) {
+    if (k==0) {
+        return tbwsp[0] * x;
+        }
+    return horner_re(k-1, tbwsp, x)  * x+tbwsp[k]
+    
+    
+    
+    }
     
 int main(int argc, char **argv)
 {
