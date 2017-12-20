@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 using namespace std;
 
 
@@ -39,7 +40,7 @@ void sort_wyb(int t[], int n[]) {
 int main(int argc, char **argv) {
     const int ile = 10;
     int tab[ile];
-    wypelnij(tab[], ile, 20);
+    wypelnij(tab, ile, 20);
     drukuj(tab, ile);
     
     
