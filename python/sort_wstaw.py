@@ -14,6 +14,14 @@ def sort_wstaw(lista):
     return lista
 
 
+def sort_wst_bin(lista):
+    for i in range(1, len(lista)):
+        el = lista[i]
+        k = wysz_bin(lewy, prawy, lista, el)
+
+        lista =
+
+
 def main(args):
     lista = [9, 6, 8, 4, 7, 5, 2, 3, 1]
     print(lista)
