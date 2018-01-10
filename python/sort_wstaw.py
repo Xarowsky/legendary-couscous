@@ -14,6 +14,13 @@ def sort_wstaw(lista):
     return lista
 
 
+def wysz_bin_it(lista, el):
+    while lewy < prawy:
+        srodek = floor((lewy + prawy) / 2)
+
+
+
+
 def sort_wst_bin(lista):
     for i in range(1, len(lista)):
         el = lista[i]
