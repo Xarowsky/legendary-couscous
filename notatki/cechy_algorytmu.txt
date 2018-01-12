@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-12T11:12:56+01:00
+
+====== cechy algorytmu ======
+
+==== Własnośći ====
+
+1. poprawność
+2. skończoność
+3. złożoność
+4. wydajość
+
+==== wnioskowanie indukcyjne ====
+
+
+Specyfikacja zadania
+
+===== Zadanie: =====
+wypisz kolejne dodatnie liczby nieparzyste
