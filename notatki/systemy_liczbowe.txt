@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-17T12:00:51+01:00
+
+====== systemy liczbowe ======
+Created środa 17 styczeń 2018
+
+1) systemty addytywne
+1=> I
+2=>ii
+3=>iii
+4=>iv
+5=>v
+6=>vi
+7=>VII
+8=>VIII
+9=>IX
+10=>X
+50=>L
+100=>C
+500=>D
+1000=>m
+2018=> MMXVII
+1530=>MDXXX
+1364=>MCCCDXIV
+2)systemy pozycyjne
+1324987528
+
+234(5)=2 * 5 ^ 3 * 5 ^ 1 + 4 * 5 ^ 0
+
+o podstawie 2
+100100112
+
+====== o podstawie 16 ======
+
+0-9,A,B,C,D,E,F
+
+FF=255
