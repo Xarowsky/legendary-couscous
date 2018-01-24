@@ -1,5 +1,6 @@
 #! /usr/bin/env python
 # -*- coding: utf-8 -*-
+from math import floor
 
 
 def sort_wstaw(lista):
@@ -14,25 +15,26 @@ def sort_wstaw(lista):
     return lista
 
 
-def wysz_bin_it(lista, el):
+def wysz_bin_it(lewy, prawy, lista, el):
     while lewy < prawy:
         srodek = floor((lewy + prawy) / 2)
-
+                if el <= prawy:
 
 
 
 def sort_wst_bin(lista):
     for i in range(1, len(lista)):
         el = lista[i]
-        k = wysz_bin(lewy, prawy, lista, el)
-
-        lista =
+        k = wysz_bin(0, i, lista, el)
+        lista = lista[:k] + [el] + lista[k:i] + lista[i:] + lista[i + 1:]
+        print(lista)
+    return lista
 
 
 def main(args):
     lista = [9, 6, 8, 4, 7, 5, 2, 3, 1]
     print(lista)
-    print(sort_wstaw(lista))
+#   print(sort_wstaw(lista))
     return 0
 
 
