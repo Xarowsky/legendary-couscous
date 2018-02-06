@@ -38,9 +38,12 @@ def other2dec(liczba, podstawa):
     liczba10 = 0
     potega = len(liczba) - 1
     for cyfra in liczba:
-        liczba10 += int(cyfra) * (podstawa ** potega)
-        potega -= 1
-    return licbza10
+        if not cyfra.isdigit():
+            liczba10 += (ord(cyfra.upper) - 55) * (podstawa ** potega)
+        else:
+            liczba += int(cyfra) * (podstawa ** potega)
+    potega -= 1
+    return liczba10
 
 
 def main(args):

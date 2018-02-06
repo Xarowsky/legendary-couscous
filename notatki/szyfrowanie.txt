@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-06T12:59:38+01:00
+
+====== szyfrowanie ======
+Created wtorek 06 luty 2018
+
+Szyfrowanie polega na ukryciu danych. Otrzymujemy w ten sposób SZYFROGRAM.
+Do odszyfrownia potrzebny jest klucz oraz szyfrogram.
