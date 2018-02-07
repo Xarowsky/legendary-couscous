@@ -21,7 +21,7 @@ def deszyfruj(tekst, klucz):
     for znak in tekst:
         ascii = ord(znak) - klucz
         if ascii < 32:
-            ascii = 126 - (ascii - 13)
+            ascii = 125 - abs(ascii - 32)
         szyfrogram = szyfrogram + chr(ascii)
     return szyfrogram
 
