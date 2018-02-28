@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-27T12:59:00+01:00
+
+====== praca domowa ======
+Created wtorek 27 luty 2018
+
+zaszyfruj swoje dane osobowe
+przy użyciu 3 poznanych szyfrów, 
+tj. szyfr cezara szyfr podstawieniowy  oraz szyfr Vigenere'a
