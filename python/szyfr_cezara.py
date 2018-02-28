@@ -28,10 +28,10 @@ def deszyfruj(tekst, klucz):
 
 def main(args):
     tekst = input("podaj tekst: ")
-    klucz = int(input("poddaj klucz: "))
-    szyfrogram = szyfruj(tekst, klucz)
+    ragnarok = int(input("poddaj klucz: "))
+    szyfrogram = szyfruj(tekst, ragnarok)
     print(szyfrogram)
-    tekst = deszyfruj(szyfrogram, klucz)
+    tekst = deszyfruj(szyfrogram, ragnarok)
     print(tekst)
     return 0
 
