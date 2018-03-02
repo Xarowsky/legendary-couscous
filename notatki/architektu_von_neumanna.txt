@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-02T11:07:41+01:00
+
+====== architektura von neumanna ======
+Created piątek 02 marzec 2018
+
+procesor - logiczna jednostka arytmetyczna
+procesor składa się z rejestrów rozmiar współczesnego rejestru 64-bit
+
+pamięć (RAM) - pamięć swobodnego dostępu
+
+szyna danych 
+
+pamięć rom
+
+BIOS
+

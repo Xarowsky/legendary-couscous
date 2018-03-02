@@ -8,4 +8,4 @@ Created wtorek 27 luty 2018
 http
 ssl
 tls
-certyfikat serwera
+certyfikat serwera       
