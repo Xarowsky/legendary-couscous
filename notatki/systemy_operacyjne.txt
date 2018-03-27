@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-06T12:59:16+01:00
+
+====== systemy operacyjne ======
+Created wtorek 06 marzec 2018
+
+====== Linux ======
+
+AMD64/x64 - procesory 64 bitowe
+i386/x84 - architektura 32 bitowa 
+ARM - procesory mobilne
+MIPS - 
+
+zamknięte systemy
+
+macOS
+windows
+
+otwarte systemy
+
+linux
+
+hardware
+software
+OS
+
+Jądro systemu - operuje bezpośrednio na sprzęcie
+jądro hybrydowe - wolniejsze ale stabilniejsze
+jądro monolityczne - szybsze ale mniej stabilne
+
+wszystkie programy działają wirtualnie
+(otrzymują wirtualną pamięć)
+
+interfejs / powłoka graficzna

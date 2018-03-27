@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-09T11:01:02+01:00
+
+====== LinuxGNU ======
+Created piątek 09 marzec 2018
+
+Dystrybucje skladaja sie z:
+jądro
+interfejs tekstowy
+interfejs graficzny
+programy użytkowe
+
+dystrybucje:
+-slack
+-ubuntu
+-debian
+-mint

@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-13T12:50:17+01:00
+
+====== macOS ======
+Created wtorek 13 marzec 2018
+

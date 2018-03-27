@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-09T11:00:45+01:00
+
+====== M$ ======
+Created piątek 09 marzec 2018
+
+MS-dos  - architektur x86
+dir
+już dos oznaczał partycje literami A:\ B:\ to stacje dyskietek
+C:\
+z:\
+cd .. poziom w górę
+nazewnictwo plików składają się z 8 liter nazwy i 3 rozszerzenia
+exe com p;iki wykonywalne
+a plik zapisany na dysku
+r tylko do odczytu
+h plik ukryty
+s plik systemowy
+ilość obsługiwanej pamięci 640kb
+maksymalny rozmiar programu obsługiwanego programu 64kb
+tryb rzeczywisty procesora umożliwiał sprzętowe przerewania
+
+1994
+
+pierwszy system graficzny MS windows 3.1 workgroup
+okienka
+ikony
+pasek tytułu
+
+windows 8
+interfejs kafelkowy

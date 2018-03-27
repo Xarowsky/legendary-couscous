@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-20T13:00:08+01:00
+
+====== Sieci komputerowe ======
+Created wtorek 20 marzec 2018
+
+Host
+LAN
+ethernet
+kabel "skrętka"
+wtyczka rj 45
+przełącznik sieciowy (switch)
+topologia gwiazdy
+router
+WAN
+adapter (światłowody)
+wi-fi
+adres IP (1111.1111.1111.1111)
+gateway
+adres serwera DNS
+ping
+traceroute
+trasowanie
+sieć szkieletowa
+protokoły sieciowe
+T(transmision)C(ontrol)P(rotocol)
+IP
+TCP/IP
+HTTP
+HTTPS
+F(ile)T(ransfer)P(rotocol)
+POP poczta
+SSH
+Telnet
+DNS - baza rozproszona
+top level domain
+UDP- transport
+TCP-transport
+sieci internetowa - IP prywatne/publiczne 10.0 - 10.255 prywatne 192.168.3.0/24 - adres sieci 
+192.168.3.255 => broadcast
+N(etwork)A(ddress)T(ranslation)
