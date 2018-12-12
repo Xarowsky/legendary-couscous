@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-12-05T09:09:15+01:00
+
+====== Home ======
+Created środa 05 grudnia 2018
+
+[[https://		www.google.com/search?client=ubuntu&hs=Qsp&channel=fs&ei=eYcHXJ3qIMXPrgTh_Iz4Cw&q=c%2B%2B&oq=c%2B%2B&gs_l=psy-ab.3..0i67l6j0j0i67l2j0.6439.6609..6815...0.0..0.108.211.0j2......0....1..gws-wiz.Hkp-XPQoqSE]]
